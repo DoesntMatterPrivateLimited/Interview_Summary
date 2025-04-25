@@ -3,4 +3,110 @@ ans= A load balancer distributes incoming network traffic across multiple server
 
 2. network LB and application LB?
 ans= A Network Load Balancer (NLB) routes traffic based on IP/TCP/UDP at Layer 4, ideal for high-performance and low-latency needs.
-    and Application Load Balancer (ALB) routes traffic based on HTTP/HTTPS at Layer 7, enabling content-based routing and path base routing,http header.
+     while Application Load Balancer (ALB) routes traffic based on HTTP/HTTPS at Layer 7, enabling content-based routing and path base routing,http header.
+
+3. what is public and private cloud?
+ans= A public cloud is a cloud service offered over the internet and shared among multiple users, 
+     while a private cloud is dedicated to a single organization and hosted either on-premises or by a third party.
+
+4. what is cicd?
+ans= CI/CD is the process of continuously integrating code changes and automatically delivering them to production through automated testing and deployment.
+
+5. what is docker?
+ans= Docker is a platform that enables developers to build, package, and run applications in lightweight, portable containers.
+
+6. what is elastic ip?
+ans= An Elastic IP is a static, public IP address provided by AWS that can be associated with an EC2 instance and easily re-assigned as needed.
+
+7. what is autoscaling group?
+ans= An Auto Scaling group is a set of EC2 instances in AWS that automatically adjusts its size based on demand, ensuring optimal performance and cost-efficiency.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
