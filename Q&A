@@ -3,4 +3,4 @@ ans= A load balancer distributes incoming network traffic across multiple server
 
 2. network LB and application LB?
 ans= A Network Load Balancer (NLB) routes traffic based on IP/TCP/UDP at Layer 4, ideal for high-performance and low-latency needs.
-    and Application Load Balancer (ALB) routes traffic based on HTTP/HTTPS at Layer 7, enabling content-based routing and advanced rules.
+    and Application Load Balancer (ALB) routes traffic based on HTTP/HTTPS at Layer 7, enabling content-based routing and path base routing,http header.
