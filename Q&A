@@ -21,6 +21,8 @@ ans= An Elastic IP is a static, public IP address provided by AWS that can be as
 7. what is autoscaling group?
 ans= An Auto Scaling group is a set of EC2 instances in AWS that automatically adjusts its size based on demand, ensuring optimal performance and cost-efficiency.
 
+8. what is NAT gateway?
+ans= A NAT Gateway allows instances in a private subnet to access the internet while preventing the internet from initiating connections with them.
 
 
 
