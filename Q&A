@@ -24,26 +24,53 @@ ans= An Auto Scaling group is a set of EC2 instances in AWS that automatically a
 8. what is NAT gateway?
 ans= A NAT Gateway allows instances in a private subnet to access the internet while preventing the internet from initiating connections with them.
 
+9. what is CloudFront?
+ans= Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to users globally with low latency.
 
+10. what is CloudFormation?
+ans= AWS CloudFormation is a service that lets you model, provision, and manage AWS resources using infrastructure as code (IaC) templates.
 
+11. what is Route53?
+ans= Amazon Route 53 is a scalable and highly available Domain Name System (DNS) web service for domain registration, routing traffic, and health checking.
 
+12. what is S3?
+ans= Amazon S3 (Simple Storage Service) is an object storage service that provides scalable, secure, and durable storage for data backup, archival, and web applications.
 
+13. what is VPC?
+ans= An Amazon VPC (Virtual Private Cloud) is a logically isolated network within AWS where you can launch and manage AWS resources securely.
 
+14. what is Subnet?
+ans= A subnet is a segmented range of IP addresses within a VPC that allows you to organize and control network traffic.
 
+15. what is Route tables?
+ans= A route table is a set of rules in a VPC that determines how network traffic is directed within the cloud or to external networks.
 
+16. what is Internet Gateway?
+ans= An internet gateway is a VPC component that enables communication between resources in your VPC and the internet.
 
+17. what is Security group?
+ans= A security group acts as a virtual firewall for your AWS resources to control inbound and outbound traffic.
 
+18. what is Network ACL?
+ans= A network ACL (Access Control List) is a stateless firewall at the subnet level that controls inbound and outbound traffic in a VPC using rules.
 
+19. what is Peering connection?
+ans= A peering connection is a networking connection between two VPCs that allows them to communicate privately using internal IP addresses.
 
+20. what is Transit gateways?
+ans= An AWS Transit Gateway is a central hub that connects multiple VPCs, on-premises networks, and remote networks, simplifying network management.
 
+21. what is DHCP?
+ans= DHCP (Dynamic Host Configuration Protocol) is a network protocol that automatically assigns IP addresses and other network configuration information to devices on a network.
 
+22. what is Cloud Watch?
+ans= Amazon CloudWatch is a monitoring and observability service that provides real-time insights into AWS resources, applications, and system performance.
 
+23. what is IAM?
+ans= AWS IAM (Identity and Access Management) is a service that enables you to securely manage access to AWS resources by defining users, groups, and permissions.
 
-
-
-
-
-
+24. what is EC2?
+ans= Amazon EC2 (Elastic Compute Cloud) is a scalable compute service that allows you to run virtual servers in the cloud.
 
 
 
