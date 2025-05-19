@@ -72,6 +72,14 @@ ans= AWS IAM (Identity and Access Management) is a service that enables you to s
 24. what is EC2?
 ans= Amazon EC2 (Elastic Compute Cloud) is a scalable compute service that allows you to run virtual servers in the cloud.
 
+25. what is kubernetes?
+ans= Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications.
+
+26. what is taint and toleration?
+ans= Taints and tolerations in Kubernetes work together to ensure that pods are only scheduled on appropriate nodes by preventing pods from being scheduled on tainted nodes unless they tolerate the taint.
+
+27. what is pod?
+ans= A Pod in Kubernetes is the smallest deployable unit that represents a single instance of a running process in a cluster, encapsulating one or more containers with shared storage and network.
 
 
 
