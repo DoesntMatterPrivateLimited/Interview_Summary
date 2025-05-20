@@ -81,6 +81,38 @@ ans= Taints and tolerations in Kubernetes work together to ensure that pods are 
 27. what is pod?
 ans= A Pod in Kubernetes is the smallest deployable unit that represents a single instance of a running process in a cluster, encapsulating one or more containers with shared storage and network.
 
+28. Difference between EC2 and ECR?
+ans= EC2 is a virtual server to run applications, while ECR is a container image registry to store and manage Docker images.
+
+29. Difference between Docker and Kubernetes?
+ans= Docker is a tool for creating and running containers, while Kubernetes is a platform for orchestrating and managing multiple containers across clusters.
+
+30. Difference between continues integration and continues delivery and continues deployment?
+ans= Continuous Integration automatically builds and tests code on every change,
+     Continuous Delivery ensures code is always ready to deploy,
+     Continuous Deployment automatically deploys every change to production without manual approval.
+
+31. Why we are used Terraform and what was the purpose?
+ans= We use Terraform to automate the provisioning and management of cloud infrastructure using code.
+     The purpose of Terraform is to enable Infrastructure as Code (IaC), allowing teams to provision, manage, and version cloud infrastructure reliably and efficiently across multiple providers.
+
+32. What is the used of Docker file?
+ans= A Dockerfile is used to define the instructions for building a Docker image, including the app, dependencies, and environment setup.
+
+33. what is the used of load balance and how it help up in application scalibility?
+ans= A load balancer distributes incoming traffic across multiple servers, helping improve application scalability by ensuring no single server is overwhelmed.
+
+34. what is autoscaling?
+ans= Autoscaling automatically adjusts the number of running instances based on demand to ensure performance and cost efficiency.
+
+35. what are the types of scaling?
+ans= The main types of scaling are vertical scaling (adding more resources to a single machine) and horizontal scaling (adding more machines to handle increased load).
+
+36. what re the component in kubrnetes?
+ans= The main components of Kubernetes are:
+    Master components: API Server, Controller Manager, Scheduler, etcd (cluster state store)
+    Node components: Kubelet, Kube-proxy, Container runtime (e.g., Docker, containerd)
+
 
 
 
