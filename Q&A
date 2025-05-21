@@ -108,7 +108,7 @@ ans= Autoscaling automatically adjusts the number of running instances based on 
 35. what are the types of scaling?
 ans= The main types of scaling are vertical scaling (adding more resources to a single machine) and horizontal scaling (adding more machines to handle increased load).
 
-36. what re the component in kubrnetes?
+36. what are the component in kubrnetes?
 ans= The main components of Kubernetes are:
     Master components: API Server, Controller Manager, Scheduler, etcd (cluster state store)
     Node components: Kubelet, Kube-proxy, Container runtime (e.g., Docker, containerd)
