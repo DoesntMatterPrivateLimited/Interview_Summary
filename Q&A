@@ -113,6 +113,11 @@ ans= The main components of Kubernetes are:
     Master components: API Server, Controller Manager, Scheduler, etcd (cluster state store)
     Node components: Kubelet, Kube-proxy, Container runtime (e.g., Docker, containerd)
 
+37. what is ReplicaSet?
+ans= A ReplicaSet in Kubernetes ensures that a specified number of pod replicas are running at any given time.
+
+38. what is Deployment?
+ans= A Deployment in Kubernetes manages ReplicaSets and provides declarative updates for Pods to ensure the desired application state.
 
 
 
