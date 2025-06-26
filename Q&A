@@ -127,6 +127,17 @@ ans= Blue Deployment: The current live environment serving production traffic.
 ans= Rollout: The process of deploying a new version of an application or update to production.
      Rollback: The process of reverting to a previous stable version after a failed deployment or issue.
 
+41. what is ConfigMap in k8s?
+ans= In Kubernetes, a ConfigMap is an object that allows you to store configuration data as key-value pairs and inject it into pods as 
+     environment variables, command-line arguments, or configuration files.
+
+
+
+
+
+
+
+
 
 
 
