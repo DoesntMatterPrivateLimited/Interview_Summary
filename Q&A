@@ -123,7 +123,9 @@ ans= A Deployment in Kubernetes manages ReplicaSets and provides declarative upd
 ans= Blue Deployment: The current live environment serving production traffic.
      Green Deployment: The new version deployed in a separate environment, tested and made live by switching traffic from blue.
 
-
+40. what is Rollout & Rollback?
+ans= Rollout: The process of deploying a new version of an application or update to production.
+     Rollback: The process of reverting to a previous stable version after a failed deployment or issue.
 
 
 
