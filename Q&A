@@ -119,6 +119,9 @@ ans= A ReplicaSet in Kubernetes ensures that a specified number of pod replicas 
 38. what is Deployment?
 ans= A Deployment in Kubernetes manages ReplicaSets and provides declarative updates for Pods to ensure the desired application state.
 
+39. what is Blue & Green Deployment?
+ans= Blue Deployment: The current live environment serving production traffic.
+     Green Deployment: The new version deployed in a separate environment, tested and made live by switching traffic from blue.
 
 
 
