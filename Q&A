@@ -132,7 +132,15 @@ ans= In Kubernetes, a ConfigMap is an object that allows you to store configurat
      environment variables, command-line arguments, or configuration files.
 
 
+42. how to migrate onprem to cloud? 
 
+43. how to create HA cluster?
+
+44. how to secure your cloud?
+
+45. how to create job in jenkins?
+
+46. how to create autoscaling on cloud?
 
 
 
