@@ -142,6 +142,16 @@ ans= In Kubernetes, a ConfigMap is an object that allows you to store configurat
 
 46. how to create autoscaling on cloud?
 
+47. What are the different between Amazon S3 storge classes?
+ans= 1. S3 Standard = For Frequently Accesses data
+     2. S3- Intelligent-Tiering = For automatic cost savings for data unknown or changing acces patterns
+     3. S3 Standard IA = For less frequently assess data
+     4. S3 One-zone IA = For less frequently assess data
+     5. S3 Glacier instant retrieval = For rarely accessed long-term data that does not required immediate access 
+     6. S3 glacier flexible retrival = monitor resource usage with AWS cost explore with cloudwatch
+     7. S3 glecier Deep archive = For long time achive and digital preservation
+
+
 
 
 
